@@ -6,7 +6,7 @@
   <a href="https://github.com/sujin-1013"><img src="https://komarev.com/ghpvc/?username=sujin-1013&color=6C8EBF&style=flat" alt="Profile views" /></a>
   <img src="https://img.shields.io/github/followers/sujin-1013?style=flat&color=6C8EBF&label=Followers" alt="Followers" />
   <a href="https://doi.org/10.1109/ACCESS.2023.3339793"><img src="https://img.shields.io/badge/IEEE%20Access-2023-00629B?style=flat" alt="IEEE Access paper" /></a>
-  <a href="https://arxiv.org/abs/2509.06415"><img src="https://img.shields.io/badge/ICLR%202026-Workshop-F05032?style=flat" alt="ICLR 2026 Workshop" /></a>
+  <a href="https://openreview.net/forum?id=7uERGq4rDc"><img src="https://img.shields.io/badge/ICLR%202026-Workshop-F05032?style=flat" alt="ICLR 2026 Workshop" /></a>
 </p>
 
 ---
@@ -32,7 +32,7 @@
 | Year | Paper | Venue | Links |
 |:---:|---|:---:|:---:|
 | 2023 | **Task-Aware Dynamic Model Optimization for Multi-Task Learning** <br/> <sub>Choi S., Jin H., Kim E.</sub> | *IEEE Access* | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2023.3339793-00629B)](https://doi.org/10.1109/ACCESS.2023.3339793) [![Code](https://img.shields.io/badge/code-black?logo=github)](https://github.com/sujin-1013/task-aware-DMO) |
-| 2026 | **Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models** <br/> <sub>Son J., Choi S.</sub> | *ICLR 2026 Workshop on MM Intelligence* &middot; Poster | [![arXiv](https://img.shields.io/badge/arXiv-2509.06415-b31b1b.svg)](https://arxiv.org/abs/2509.06415) |
+| 2026 | **Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models** <br/> <sub>Son J., Choi S.</sub> | *ICLR 2026 Workshop on MM Intelligence* &middot; Poster | [![OpenReview](https://img.shields.io/badge/OpenReview-7uERGq4rDc-8C1B13)](https://openreview.net/forum?id=7uERGq4rDc) [![arXiv](https://img.shields.io/badge/arXiv-2509.06415-b31b1b.svg)](https://arxiv.org/abs/2509.06415) |
 
 ### 🛠️ Tech Stack
 
