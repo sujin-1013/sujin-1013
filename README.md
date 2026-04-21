@@ -48,15 +48,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub stats
+### 📊 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujin-1013&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=6C8EBF&icon_color=6C8EBF" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-1013&layout=compact&hide_border=true&langs_count=6&title_color=6C8EBF" height="165" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sujin-1013&hide_border=true&ring=6C8EBF&fire=6C8EBF&currStreakLabel=6C8EBF" height="165" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-1013&layout=compact&hide_border=true&langs_count=8&title_color=6C8EBF" height="165" alt="top languages" />
 </p>
 
 ---
