@@ -48,12 +48,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujin-1013&layout=compact&hide_border=true&langs_count=8&title_color=6C8EBF" height="165" alt="top languages" />
-</p>
-
 ---
 
 <p align="center">
