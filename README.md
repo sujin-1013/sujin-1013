@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/sujin-1013"><img src="https://komarev.com/ghpvc/?username=sujin-1013&color=6C8EBF&style=flat" alt="Profile views" /></a>
-  <img src="https://img.shields.io/github/followers/sujin-1013?style=flat&color=6C8EBF&label=Followers" alt="Followers" />
   <a href="https://doi.org/10.1109/ACCESS.2023.3339793"><img src="https://img.shields.io/badge/IEEE%20Access-2023-00629B?style=flat" alt="IEEE Access paper" /></a>
   <a href="https://openreview.net/forum?id=7uERGq4rDc"><img src="https://img.shields.io/badge/ICLR%202026-Workshop-F05032?style=flat" alt="ICLR 2026 Workshop" /></a>
 </p>
