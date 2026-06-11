@@ -13,9 +13,9 @@
 ### 👩‍💻 About me
 
 - 🎓 **Master of AI** at **Chung-Ang University**, Seoul
-- 🔬 Working on **efficient deep learning** — multi-task learning, model pruning, signal-based fault diagnosis
+- 🔬 Working on **efficient AI** — making deep learning models lighter and more adaptive through model optimization
 - 📝 IEEE Access 2023 first author · ICLR 2026 Workshop (MM Intelligence) co-author
-- 🌱 Currently exploring **vision-language models** and **time-series representation learning**
+- 🌱 Currently exploring **multimodal AI** and **industrial AI** for real-world systems
 - 📫 Reach me at **popo2419@naver.com**
 
 ### 🔬 Research interests
