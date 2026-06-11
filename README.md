@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sujin+Choi+%F0%9F%91%8B;AI+researcher+%40+Chung-Ang+University;Efficient+deep+learning+%E2%80%94+MTL%2C+pruning%2C+PHM" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sujin+Choi+%F0%9F%91%8B;AI+researcher+%40+Chung-Ang+University;Efficient+AI+%E2%80%94+model+optimization;Multimodal+AI+%C2%B7+Industrial+AI" alt="typing header" />
 </h1>
 
 <p align="center">
