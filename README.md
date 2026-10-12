@@ -18,16 +18,9 @@
 
 ### 🔬 Research interests
 
-```text
-• Efficient and adaptive AI systems
-  Multi-task learning, dynamic model optimization, pruning, and parameter-efficient inference
-
-• Multimodal representation learning
-  Vision-language models, document understanding, and token/parameter reduction
-
-• Industrial AI and signal intelligence
-  PHM, vibration-based fault diagnosis, time-series modeling, and robustness under noise
-```
+- **Efficient and adaptive AI systems**: Multi-task learning, dynamic model optimization, pruning, and parameter-efficient inference
+- **Multimodal representation learning**: Vision-language models, document understanding, and token/parameter reduction
+- **Industrial AI and signal intelligence**: PHM, vibration-based fault diagnosis, time-series modeling, and robustness under noise
 
 ### 📄 Publications
 
