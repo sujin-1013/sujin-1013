@@ -10,11 +10,12 @@
 
 ### 👩‍💻 About me
 
-- 🛠️ I turn AI research into systems that run in real settings: lightweight, reliable, and ready to deploy.
-- 🏦 **Finance & Documents**: Automated handwritten local-tax bill processing at Hana Institute of Technology (40 document types, ~3 s per document, ~96% accuracy), and made high-resolution document VLMs more efficient (ICLR 2026 Workshop).
-- 🏭 **Industrial Equipment**: Training-free anomalous sound detection and noise-robust vibration fault diagnosis at KETI, plus building an MCP server for an equipment monitoring dashboard.
-- ⚡ **Model Efficiency**: Cut parameters by ~83% in multi-task learning through task-aware dynamic model optimization (IEEE Access 2023, first author).
-- 📫 Reach me at **popo2419@naver.com**
+**I turn AI research into systems that work in the field.**
+
+- 🏦 **Finance & Documents**: Handwritten tax-bill automation (40 doc types, 3 s/doc, 96% accuracy), efficient document VLMs
+- 🏭 **Industrial Equipment**: Anomalous sound detection, vibration fault diagnosis, MCP server for equipment monitoring
+- ⚡ **Model Efficiency**: 83% fewer parameters in multi-task learning (IEEE Access, 1st author)
+- 📫 **popo2419@naver.com**
 
 ### 🔬 Research interests
 
