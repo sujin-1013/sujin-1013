@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sujin+Choi+%F0%9F%91%8B;Making+AI+Work+in+Practice;Finance+%26+Documents+%7C+Industrial+Equipment+%7C+Model+Efficiency" alt="typing header" />
-</h1>
+<h1 align="center">Making AI Work in Practice</h1>
+<p align="center"><b>Finance &amp; Documents</b> | <b>Industrial Equipment</b> | <b>Model Efficiency</b></p>
 
 <p align="center">
   <a href="https://doi.org/10.1109/ACCESS.2023.3339793"><img src="https://img.shields.io/badge/IEEE%20Access-2023-00629B?style=flat" alt="IEEE Access paper" /></a>
