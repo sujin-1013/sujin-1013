@@ -1,9 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sujin+Choi+%F0%9F%91%8B;Efficient+AI+%E2%80%94+model+optimization;Multimodal+AI+%C2%B7+Industrial+AI;Signal+intelligence+%26+PHM" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sujin+Choi+%F0%9F%91%8B;Making+AI+Work+in+Practice;Finance+%26+Documents+%7C+Industrial+Equipment+%7C+Model+Efficiency" alt="typing header" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/sujin-1013"><img src="https://visitor-badge.laobi.icu/badge?page_id=sujin-1013.sujin-1013&left_text=Profile%20views&left_color=gray&right_color=6C8EBF" alt="Profile views" /></a>
   <a href="https://doi.org/10.1109/ACCESS.2023.3339793"><img src="https://img.shields.io/badge/IEEE%20Access-2023-00629B?style=flat" alt="IEEE Access paper" /></a>
   <a href="https://openreview.net/forum?id=7uERGq4rDc"><img src="https://img.shields.io/badge/ICLR%202026-Workshop-F05032?style=flat" alt="ICLR 2026 Workshop" /></a>
 </p>
@@ -12,9 +11,10 @@
 
 ### 👩‍💻 About me
 
-- 🔬 Working on **efficient AI** — making deep learning models lighter and more adaptive through model optimization
-- 📝 IEEE Access 2023 first author · ICLR 2026 Workshop (MM Intelligence) co-author
-- 🌱 Currently exploring **multimodal AI** and **industrial AI** for real-world systems
+- 🛠️ I turn AI research into systems that run in real settings: lightweight, reliable, and ready to deploy.
+- 🏦 **Finance & Documents**: Automated handwritten local-tax bill processing at Hana Institute of Technology (40 document types, ~3 s per document, ~96% accuracy), and made high-resolution document VLMs more efficient (ICLR 2026 Workshop).
+- 🏭 **Industrial Equipment**: Training-free anomalous sound detection and noise-robust vibration fault diagnosis at KETI, plus building an MCP server for an equipment monitoring dashboard.
+- ⚡ **Model Efficiency**: Cut parameters by ~83% in multi-task learning through task-aware dynamic model optimization (IEEE Access 2023, first author).
 - 📫 Reach me at **popo2419@naver.com**
 
 ### 🔬 Research interests
