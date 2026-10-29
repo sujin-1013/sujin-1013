@@ -8,22 +8,15 @@
 
 ---
 
-### 👩‍💻 About me
+### About me
 
 **I turn AI research into systems that work in the field.**
 
-- 🏦 **Finance & Documents**: Handwritten tax-bill automation (40 doc types, 3 s/doc, 96% accuracy), efficient document VLMs
-- 🏭 **Industrial Equipment**: Anomalous sound detection, vibration fault diagnosis, MCP server for equipment monitoring
-- ⚡ **Model Efficiency**: 83% fewer parameters in multi-task learning (IEEE Access, 1st author)
-- 📫 **popo2419@naver.com**
+- **Finance & Documents**: Automation pipeline for 40+ types of handwritten local-tax notices, in production at a bank (≤3 s/doc, ~96% document-level accuracy), and token pruning for document VLMs (ICLR 2026 Workshop)
+- **Industrial Equipment**: Fault-diagnosis reliability auditing, training-free anomalous sound detection, MCP server for equipment monitoring
+- **Model Efficiency**: 84% fewer parameters in multi-task learning on average (IEEE Access, 1st author)
 
-### 🔬 Research interests
-
-- **Efficient and adaptive AI systems**: Multi-task learning, dynamic model optimization, pruning, and parameter-efficient inference
-- **Multimodal representation learning**: Vision-language models, document understanding, and token/parameter reduction
-- **Industrial AI and signal intelligence**: PHM, vibration-based fault diagnosis, time-series modeling, and robustness under noise
-
-### 📄 Publications
+### Publications
 
 | Year | Paper | Venue | Affiliation | Links |
 |:---:|---|:---:|:---:|:---:|
@@ -32,7 +25,7 @@
 | 2026 | **Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models** <br/> <sub>Son J., Choi S., Yun I.</sub> | *ICLR 2026 Workshop on MM Intelligence* &middot; Poster | Hana Institute of Technology | [![OpenReview](https://img.shields.io/badge/OpenReview-7uERGq4rDc-8C1B13)](https://openreview.net/forum?id=7uERGq4rDc) [![arXiv](https://img.shields.io/badge/arXiv-2509.06415-b31b1b.svg)](https://arxiv.org/abs/2509.06415) [![Code](https://img.shields.io/badge/code-black?logo=github)](https://github.com/sujin-1013/index-preserving-lightweight-token-pruning) |
 | 2023 | **Task-Aware Dynamic Model Optimization for Multi-Task Learning** <br/> <sub>Choi S., Jin H., Kim E.</sub> | *IEEE Access* | Chung-Ang University | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2023.3339793-00629B)](https://doi.org/10.1109/ACCESS.2023.3339793) [![Code](https://img.shields.io/badge/code-black?logo=github)](https://github.com/sujin-1013/task-aware-DMO) |
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
