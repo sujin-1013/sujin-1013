@@ -1,5 +1,5 @@
-<h1 align="center">Making AI Work in Practice</h1>
-<p align="center"><b>Finance &amp; Documents</b> | <b>Industrial Equipment</b> | <b>Model Efficiency</b></p>
+<h1 align="center">Reliable AI for Real-World Data</h1>
+<p align="center"><b>Industrial signals</b> &middot; <b>Financial documents</b> &middot; <b>Efficient models</b></p>
 
 <p align="center">
   <a href="https://doi.org/10.1109/ACCESS.2023.3339793"><img src="https://img.shields.io/badge/IEEE%20Access-2023-00629B?style=flat" alt="IEEE Access paper" /></a>
