@@ -22,6 +22,7 @@
 |:---:|---|:---:|:---:|:---:|
 | 2026 | **Physics-Signature-Based Reliability Auditing of Rotating-Machinery Fault Diagnoses Under Unseen Operating Conditions** <br/> <sub>Choi S., Yang S., Choi J., Shin Y.</sub> | *Journal of Manufacturing Processes* &middot; under review | Korea Electronics Technology Institute | ![Code](https://img.shields.io/badge/code-private-lightgrey?logo=github) |
 | 2026 | **Asymmetric Memory Retrieval for Training-Free First-Shot Anomalous Sound Detection** <br/> <sub>Choi S., Yang S., Shin Y.</sub> | *Sensors* (MDPI) &middot; under review | Korea Electronics Technology Institute | ![Code](https://img.shields.io/badge/code-private-lightgrey?logo=github) |
+| 2026 | **Quality-Guided Dynamic Model Selection for Bearing Fault Diagnosis under Noisy Conditions** <br/> <sub>Choi S.</sub> | *PHM Korea 2026* &middot; presented | Korea Electronics Technology Institute | [![Code](https://img.shields.io/badge/code-black?logo=github)](https://github.com/sujin-1013/phm-korea-2026-quality-routing) |
 | 2026 | **Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models** <br/> <sub>Son J., Choi S., Yun I.</sub> | *ICLR 2026 Workshop on MM Intelligence* &middot; Poster | Hana Institute of Technology | [![OpenReview](https://img.shields.io/badge/OpenReview-7uERGq4rDc-8C1B13)](https://openreview.net/forum?id=7uERGq4rDc) [![arXiv](https://img.shields.io/badge/arXiv-2509.06415-b31b1b.svg)](https://arxiv.org/abs/2509.06415) [![Code](https://img.shields.io/badge/code-black?logo=github)](https://github.com/sujin-1013/index-preserving-lightweight-token-pruning) |
 | 2023 | **Task-Aware Dynamic Model Optimization for Multi-Task Learning** <br/> <sub>Choi S., Jin H., Kim E.</sub> | *IEEE Access* | Chung-Ang University | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2023.3339793-00629B)](https://doi.org/10.1109/ACCESS.2023.3339793) [![Code](https://img.shields.io/badge/code-black?logo=github)](https://github.com/sujin-1013/task-aware-DMO) |
 
@@ -30,7 +31,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
